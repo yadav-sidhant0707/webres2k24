@@ -578,8 +578,8 @@ form .btn2 {
     background: #e20712;
     position: fixed;
     top: 0;
-    right:-150vh;
-    width: 150vh;
+    right:-200px;
+    width: 200px;
     height: 100vh;
     padding-top: 50px;
     z-index: 2;
