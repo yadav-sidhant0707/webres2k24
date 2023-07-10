@@ -19,7 +19,7 @@ body {
 #header {
     width: 100%;
     height: 100vh;
-    background-image: url(webres2k24/a.png.jpg);
+    background-image: url(./webres2k24/a.png.jpg);
     background-size: cover;
     background-position: right;
     background-repeat: no-repeat;
@@ -551,7 +551,7 @@ form .btn2 {
 @media only screen and (max-width:600px)
 {
     #header{
-        background-image: url(webres2k24/a.png_1080x1920.jpg);
+        background-image: url(./webres2k24/a.png_1080x1920.jpg);
 
     }
     #header-text
