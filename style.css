@@ -19,7 +19,7 @@ body {
 #header {
     width: 100%;
     height: 100vh;
-    background-image: url(mybcccc.png);
+    background-image: url(mybcccc.png.jpeg);
     background-size: cover;
     background-position: right;
     background-repeat: no-repeat;
@@ -578,7 +578,7 @@ form .btn2 {
     background: #e20712;
     position: fixed;
     top: 0;
-    right:-200px;
+    left:-200px;
     width: 200px;
     height: 100vh;
     padding-top: 50px;
